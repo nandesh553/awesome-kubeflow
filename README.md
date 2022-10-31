@@ -21,3 +21,6 @@ Created originally by Google engineers.
 ### Plugins
 - [Arena Cli](https://github.com/kubeflow/arena)- Arena is a command-line interface for the data scientists to run and monitor the machine learning training jobs and check their results in an easy way.
 - [Kale](https://github.com/kubeflow-kale/kale) - KALE (Kubeflow Automated pipeLines Engine) is a project that aims at simplifying the Data Science experience of deploying Kubeflow Pipelines workflows.
+
+### Examples
+- [Kubeflow - Examples](https://github.com/kubeflow/examples)- Official Kubeflow examples repository.
