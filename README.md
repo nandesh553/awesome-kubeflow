@@ -25,3 +25,4 @@ Created originally by Google engineers.
 ### Examples
 - [Kubeflow - Examples](https://github.com/kubeflow/examples)- Official Kubeflow examples repository.
 - [Kubeflow pipeline termination notification](https://stackoverflow.com/questions/57508382/kubeflow-pipeline-termination-notificaiton)
+- [Pipeline upload automation](https://towardsdatascience.com/kubeflow-mlops-automatic-pipeline-deployment-with-ci-cd-ct-64aeec46cc33)
