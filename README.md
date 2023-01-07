@@ -16,7 +16,7 @@ Created originally by Google engineers.
 3. Running Jupyter NBs on GPU
 
 ### Links:
-- [Kubeflow overview and implementation](https://towardsdatascience.com/kubeflow-an-mlops-perspective-17d33ac57c08)
+- [Kubeflow overview and implementation](https://towardsdatascience.com/kubeflow-an-mlops-perspective-17d33ac57c08) - Example of using the kubeflow framework in production.
 
 ### Plugins
 - [Arena Cli](https://github.com/kubeflow/arena)- Arena is a command-line interface for the data scientists to run and monitor the machine learning training jobs and check their results in an easy way.
@@ -35,4 +35,5 @@ Kubeflow Pipelines is a platform for building and deploying portable, scalable m
 #### [MLMD](https://github.com/google/ml-metadata)
 Kubeflow uses Google MLMD library behind the scenes to store all the metadata. It is the library for recording and retrieving metadata associated with ML development
 It is used to store artifacts, metrics etc.
-
+#### [KServe](https://kserve.github.io/website/master/get_started/first_isvc/)
+Highly scalable and standards based Model Inference Platform on Kubernetes
