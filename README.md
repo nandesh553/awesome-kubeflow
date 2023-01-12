@@ -37,3 +37,5 @@ Kubeflow uses Google MLMD library behind the scenes to store all the metadata. I
 It is used to store artifacts, metrics etc.
 #### [KServe](https://kserve.github.io/website/master/get_started/first_isvc/)
 Highly scalable and standards based Model Inference Platform on Kubernetes
+- [End-to-end Pipeline with KFServing](https://archive-docs.d2iq.com/dkp/kaptain/2.0.0/tutorials/pipelines/#how-to-combine-the-components-into-a-pipeline)
+- [Building a ML Pipeline from Scratch with Kubeflow](https://unifiedguru.com/building-a-ml-pipeline-from-scratch-with-kubeflow/)
