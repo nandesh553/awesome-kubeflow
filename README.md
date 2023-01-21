@@ -15,19 +15,6 @@ Created originally by Google engineers.
 2. Shared multi tenant ML Environment
 3. Running Jupyter NBs on GPU
 
-### Links:
-- [Kubeflow overview and implementation](https://towardsdatascience.com/kubeflow-an-mlops-perspective-17d33ac57c08) - Example of using the kubeflow framework in production.
-
-### Plugins
-- [Arena Cli](https://github.com/kubeflow/arena)- Arena is a command-line interface for the data scientists to run and monitor the machine learning training jobs and check their results in an easy way.
-- [Kale](https://github.com/kubeflow-kale/kale) - KALE (Kubeflow Automated pipeLines Engine) is a project that aims at simplifying the Data Science experience of deploying Kubeflow Pipelines workflows.
-
-### Examples
-- [Kubeflow - Examples](https://github.com/kubeflow/examples)- Official Kubeflow examples repository.
-- [Kubeflow pipeline termination notification](https://stackoverflow.com/questions/57508382/kubeflow-pipeline-termination-notificaiton)
-- [Pipeline upload automation](https://towardsdatascience.com/kubeflow-mlops-automatic-pipeline-deployment-with-ci-cd-ct-64aeec46cc33)
-
-
 ### Kubeflow Components
 
 #### [Kubeflow Pipelines](https://www.kubeflow.org/docs/components/pipelines/v1/introduction/)
@@ -37,5 +24,18 @@ Kubeflow uses Google MLMD library behind the scenes to store all the metadata. I
 It is used to store artifacts, metrics etc.
 #### [KServe](https://kserve.github.io/website/master/get_started/first_isvc/)
 Highly scalable and standards based Model Inference Platform on Kubernetes
+
+### Examples
+##### Kubeflow
+- [Kubeflow overview and implementation](https://towardsdatascience.com/kubeflow-an-mlops-perspective-17d33ac57c08) - Example of using the kubeflow framework in production.
+##### Pipelines
+- [Kubeflow - Examples](https://github.com/kubeflow/examples)- Official Kubeflow examples repository.
+- [Kubeflow pipeline termination notification](https://stackoverflow.com/questions/57508382/kubeflow-pipeline-termination-notificaiton)
+- [Pipeline upload automation](https://towardsdatascience.com/kubeflow-mlops-automatic-pipeline-deployment-with-ci-cd-ct-64aeec46cc33)
+##### KServe
 - [End-to-end Pipeline with KFServing](https://archive-docs.d2iq.com/dkp/kaptain/2.0.0/tutorials/pipelines/#how-to-combine-the-components-into-a-pipeline)
 - [Building a ML Pipeline from Scratch with Kubeflow](https://unifiedguru.com/building-a-ml-pipeline-from-scratch-with-kubeflow/)
+
+#### Plugins
+- [Arena Cli](https://github.com/kubeflow/arena)- Arena is a command-line interface for the data scientists to run and monitor the machine learning training jobs and check their results in an easy way.
+- [Kale](https://github.com/kubeflow-kale/kale) - KALE (Kubeflow Automated pipeLines Engine) is a project that aims at simplifying the Data Science experience of deploying Kubeflow Pipelines workflows.
