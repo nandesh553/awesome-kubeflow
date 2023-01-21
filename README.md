@@ -1,6 +1,8 @@
 # awesome-kubeflow
 Everything to get industrial kubeflow applications running in production
 
+[Main repo](https://github.com/nandesh553/awesome-kubeflow)Please help by adding a star. Thanks!
+
 #### Meta
 Created originally by Google engineers. [Wikipedia -  Page](https://en.wikipedia.org/wiki/Kubeflow)
 
