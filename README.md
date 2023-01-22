@@ -1,7 +1,12 @@
+<meta name="author" content="Nandeshwar Gupta">
+<meta name="description" content="Awesome Kubeflow">
+<meta name="copyright" content="Nandeshwar Gupta 2023">
+<meta name="keywords" content="kubeflow, kfp, kubeflow-pipelines, kubeflow-component, kserve, kubernetes">
+
 # awesome-kubeflow
 Everything to get production ready Kubeflow applications.
 
-[Main repo](https://github.com/nandesh553/awesome-kubeflow)I will keep updating and expanding this repo every week. Please support by adding a star. Thanks!
+I will keep updating and expanding this repo every week. Please support by adding a star. Thanks!
 
 #### Meta
 Created originally by Google engineers. [Wikipedia -  Page](https://en.wikipedia.org/wiki/Kubeflow)
@@ -25,8 +30,7 @@ Created originally by Google engineers. [Wikipedia -  Page](https://en.wikipedia
 4.  Offline experiment tracking is not present
 
 ### Kubeflow Components
-
-#### [Kubeflow Pipelines](https://www.kubeflow.org/docs/components/pipelines/v1/introduction/)
+#### [Pipelines](https://www.kubeflow.org/docs/components/pipelines/v1/introduction/)
 Kubeflow Pipelines is a platform for building and deploying portable, scalable machine learning (ML) workflows based on Docker containers.
 #### [MLMD](https://github.com/google/ml-metadata)
 Kubeflow uses the Google MLMD library behind the scenes to store all the metadata. It is the library for recording and retrieving metadata associated with ML development
@@ -48,3 +52,11 @@ Highly scalable and standards based Model Inference Platform on Kubernetes
 #### Plugins
 - [Arena Cli](https://github.com/kubeflow/arena)- Arena is a command-line interface for data scientists to run and monitor the machine learning training jobs and check their results in an easy way.
 - [Kale](https://github.com/kubeflow-kale/kale) - KALE (Kubeflow Automated pipeLines Engine) is a project that aims at simplifying the Data Science experience of deploying Kubeflow Pipelines workflows.
+
+#### Community
+* [Community Calendar](https://www.kubeflow.org/docs/about/community/#kubeflow-community-calendars)
+* [Working Groups](https://github.com/kubeflow/community/blob/master/wg-list.md)
+* [Community Governance](https://github.com/kubeflow/community/blob/master/wgs/wg-governance.md)
+* [GitHub Organization](https://github.com/kubeflow)
+
+**[Back to top](#)**
