@@ -1,20 +1,28 @@
 # awesome-kubeflow
-Everything to get industrial kubeflow applications running in production
+Everything to get production ready Kubeflow applications.
 
-[Main repo](https://github.com/nandesh553/awesome-kubeflow)Please help by adding a star. Thanks!
+[Main repo](https://github.com/nandesh553/awesome-kubeflow)I will keep updating and expanding this repo every week. Please support by adding a star. Thanks!
 
 #### Meta
 Created originally by Google engineers. [Wikipedia -  Page](https://en.wikipedia.org/wiki/Kubeflow)
 
 ### Why Kubeflow?
 - Kubeflow is primarily used to build and run ML-based containerized workflows that are portable and scalable.
-- Make ML workflows on Kubernetes simple, portable and scalable.
+- Make ML workflows on Kubernetes simple, portable, and scalable.
 - Horizontally infinitely scalable with self-healing.
 
 #### Common Kubeflow use cases
-1. Deploying models to production
+1. Deploying web-scale models to production
 2. Shared multi-tenant ML Environment
-3. Running Jupyter NBs on GPU
+3. Framework for model experimentation, tracking & versioning
+4. Running Jupyter NBs on GPU
+5. Enable recurring training tasks (periodic ones)
+
+#### Can solve the following bottlenecks
+1.  One process blocks other processes to run (compute bottleneck)
+2.  No automation and scheduling in existing infra
+3.  No auto-scaling (Serverless architecture)
+4.  Offline experiment tracking is not present
 
 ### Kubeflow Components
 
