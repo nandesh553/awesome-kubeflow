@@ -44,7 +44,9 @@ Highly scalable and standards based Model Inference Platform on Kubernetes
 ##### Pipelines
 - [Kubeflow - Examples](https://github.com/kubeflow/examples)- Official Kubeflow examples repository.
 - [Kubeflow pipeline termination notification](https://stackoverflow.com/questions/57508382/kubeflow-pipeline-termination-notificaiton)
-- [Pipeline upload automation](https://towardsdatascience.com/kubeflow-mlops-automatic-pipeline-deployment-with-ci-cd-ct-64aeec46cc33)
+- [Kubeflow MLOps : Automatic pipeline deployment with CI / CD / CT](https://towardsdatascience.com/kubeflow-mlops-automatic-pipeline-deployment-with-ci-cd-ct-64aeec46cc33)
+- [From Notebook to Kubeflow Pipelines with HP Tuning](https://youtu.be/QK0NxhyADpM)
+- [Periodic or Recurring runs of Kubeflow pipelines](https://github.com/kubeflow/examples/blob/373b18559ac6dc888d231a38cbb44b92fe8ace7c/demos/recurring/recurring.ipynb)
 ##### KServe
 - [End-to-end Pipeline with KFServing](https://archive-docs.d2iq.com/dkp/kaptain/2.0.0/tutorials/pipelines/#how-to-combine-the-components-into-a-pipeline)
 - [Building an ML Pipeline from Scratch with Kubeflow](https://unifiedguru.com/building-a-ml-pipeline-from-scratch-with-kubeflow/)
