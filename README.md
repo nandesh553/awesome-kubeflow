@@ -47,6 +47,7 @@ Highly scalable and standards based Model Inference Platform on Kubernetes
 - [Kubeflow MLOps : Automatic pipeline deployment with CI / CD / CT](https://towardsdatascience.com/kubeflow-mlops-automatic-pipeline-deployment-with-ci-cd-ct-64aeec46cc33)
 - [From Notebook to Kubeflow Pipelines with HP Tuning](https://youtu.be/QK0NxhyADpM)
 - [Periodic or Recurring runs of Kubeflow pipelines](https://github.com/kubeflow/examples/blob/373b18559ac6dc888d231a38cbb44b92fe8ace7c/demos/recurring/recurring.ipynb)
+- [ZenML + Kubernetes + Kubeflow: Leveraging your MLOps infrastructure](https://www.zenml.io/blog/zenml-kubernetes-kubeflow)
 ##### KServe
 - [End-to-end Pipeline with KFServing](https://archive-docs.d2iq.com/dkp/kaptain/2.0.0/tutorials/pipelines/#how-to-combine-the-components-into-a-pipeline)
 - [Building an ML Pipeline from Scratch with Kubeflow](https://unifiedguru.com/building-a-ml-pipeline-from-scratch-with-kubeflow/)
